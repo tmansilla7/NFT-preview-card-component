@@ -1,4 +1,4 @@
-# 📌 QR Code Component - Front End Mentor - First Challenge
+# 📌 NFT preview card component - Front End Mentor
 
 ## 🖼️ Vista previa
 
